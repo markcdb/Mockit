@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 Mockit is a first attempt at a mocking/stubbing framework for Swift 3.0. It's API is inspired by "Mockito", the famous mocking framework for Java. Mockit is in the very earliest stage of development, but its current features are almost completely usable.
                        DESC
 
-  s.homepage         = "https://github.com/sabirvirtuoso/Mockit"
+  s.homepage         = "https://github.com/markcdb/Mockit"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Syed Sabir Salman-Al-Musawi" => "sabirvirtuoso@gmail.com" }
